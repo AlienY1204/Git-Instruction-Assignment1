@@ -1,0 +1,8 @@
+1.AB$C#%EF
+2.True
+3.False,revert will unchanged file
+4.True
+5.True
+6.False, git log -p provides more details
+7.False
+8.True
